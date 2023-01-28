@@ -17,22 +17,22 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Screnshots
 
-![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/main/Screenshots/Screenshot%20(145).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(145).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(146).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(146).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(147).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(147).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(148).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(148).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(149).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(149).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(150).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(150).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(151).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(151).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(152).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(152).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(153).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(153).png?raw=true>)
 
-![App Screenshot](<https://github.com/Tarunkmr0023/TravelWorld-Website/blob/main/Screenshots/Screenshot%20(154).png?raw=true>)
+![App Screenshot](<https://github.com/Tarunkmr0023/blog-management-app/blob/master/Screenshots/Screenshot%20(154).png?raw=true>)
